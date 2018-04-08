@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyPhotoView_Demo.iml" filepath="$PROJECT_DIR$/MyPhotoView_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filepicker/filepicker.iml" filepath="$PROJECT_DIR$/filepicker/filepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban_img_demo/luban_img_demo.iml" filepath="$PROJECT_DIR$/luban_img_demo/luban_img_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myimageselecter_demo/myimageselecter_demo.iml" filepath="$PROJECT_DIR$/myimageselecter_demo/myimageselecter_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdselectdemo/thirdselectdemo.iml" filepath="$PROJECT_DIR$/thirdselectdemo/thirdselectdemo.iml" />
+    </modules>
+  </component>
+</project>
